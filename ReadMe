@@ -1,0 +1,4 @@
+To build everything using Maven: Run as -> Maven install
+this will create the jar file in target
+copy the preauth-sso-1.0.0-SNAPSHOT.jar file to <tomcat>/webapps/jasperserver-pro/WEB-INF/lib
+copy the applicationContext-externalAuth-preAuth-mt.xml file to <tomcat>/webapps/jasperserver-pro/WEB-INF
